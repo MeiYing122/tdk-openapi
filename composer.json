@@ -1,0 +1,19 @@
+{
+    "name": "tdk/openapi",
+    "description": "tdk openapi for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tdk\\Openapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liulc",
+            "email": "2456734528@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
