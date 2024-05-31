@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * Class LiveSearch 直播列表接口
  * Integer page required 分⻚index，从1开始

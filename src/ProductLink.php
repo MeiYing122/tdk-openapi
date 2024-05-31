@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * class ProductLink 抖音商品转链
  * 获取某个商品的跳转抖⾳渠道(抖⾳⼆维码，抖⾳⼝令，抖⾳deeplink)

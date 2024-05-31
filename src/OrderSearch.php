@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * Class OrderSearch 抖客订单,查询某个应⽤下通过商品转链和直播间转链产⽣的订单
  * 查询方式1：分批次滚动拉取。需要填写size, cursor, start_time, end_time, order_type, time_type(选填)

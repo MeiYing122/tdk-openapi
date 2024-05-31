@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * Class LiveLink 抖音直播间转链
  * Integer author_openid required 直播间主播open_id， 从直播间列表接⼝返回的author_openid可获得

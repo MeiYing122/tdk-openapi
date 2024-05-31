@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * class ProductDetail 获取商品详情接⼝
  * Int[] product_ids required 商品id列表

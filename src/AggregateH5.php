@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * Class AggregateH5 抖客精选专题
  * String external_info ⾃定义字段，只允许 数字、字⺟和_，限制⻓度为40

@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * class ProductSearch 抖音搜索（商品列表）
  * page    required 商品第⼏⻚，从1开始

@@ -1,11 +1,11 @@
 {
-    "name": "tdk/openapi",
+    "name": "taodouke/openapi",
     "description": "tdk openapi for php",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Tdk\\Openapi\\": "src/"
+            "TaoDouKe\\OpenApi\\": "src/"
         }
     },
     "authors": [

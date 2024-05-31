@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * class ProductCategory 抖音商品类目接口
  * 本接⼝是通过上级类⽬，查询下级类⽬。如果要查询⼀级类⽬，则该字段填写 0 即可。查询⼆级类⽬，输⼊相应的⼀级类⽬即可。若未传，则默认为0

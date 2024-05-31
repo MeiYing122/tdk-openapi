@@ -1,5 +1,5 @@
 <?php
-namespace Tdk\Openapi;
+namespace TaoDouKe\OpenApi;
 /**
  * Class CommandParse 抖口令解析
  * String command required 直播间/直播间商品/商品的抖⼝令
